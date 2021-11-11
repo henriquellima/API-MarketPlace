@@ -1,6 +1,7 @@
 # MarketPlace API
 
-Para rodar a api, basta abrir o terminal e executar o comando 'npm run dev', e acessar pelo localhost:3333.
+Para rodar a api, basta abrir o terminal e executar dois comandos, 'npm install' e depois 'npm run dev', acessar pelo localhost:3333.
+
 
 A api permite:
 
